@@ -1,0 +1,24 @@
+ul {
+  list-style: none;
+}
+
+li {
+  display: block;
+  width: 120px;
+  float: right;
+  margin-left: 2px;
+  border: 1px solid black;
+}
+
+a {
+  display: block;
+  padding: 3px;
+  text-decoration: none;
+  background-color: white;
+  color: black;
+}
+
+a:hover {
+  background-color: black;
+  color: white;
+}
